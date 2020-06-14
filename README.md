@@ -19,7 +19,7 @@ A entrada é composta por um arquivo-texto contendo uma série de linhas. Cada l
 04 20
 05 80
 06 F0
-80 00
+80 00 
 81 05
 82 02
 ```
